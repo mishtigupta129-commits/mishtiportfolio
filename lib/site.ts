@@ -11,7 +11,7 @@ export const site = {
   links: {
     github: "https://github.com/mishtigupta129-commits",
     linkedin: "https://www.linkedin.com/in/mishti-gupta-705aa031a/",
-    resume: "https://drive.google.com/file/d/1G9ZFGDbOuvN2f7LEG5sV6m2ohZPDFjsH/view?usp=drivesdk",
+    resume: "https://drive.google.com/file/d/1OXBbgasnBcYzY3wLuNmom1ndJ6Z-CHNs/view?usp=drivesdk",
   },
 }
 
