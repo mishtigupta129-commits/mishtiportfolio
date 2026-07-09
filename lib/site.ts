@@ -10,7 +10,7 @@ export const site = {
   tagline: "Building intelligent solutions, one project at a time.",
   links: {
     github: "https://github.com/mishtigupta129-commits",
-    linkedin: "http://www.linkedin.com/in/mishti-gupta-705/",
+    linkedin: "https://www.linkedin.com/in/mishti-gupta-705aa031a/",
     resume: "https://drive.google.com/file/d/1G9ZFGDbOuvN2f7LEG5sV6m2ohZPDFjsH/view?usp=drivesdk",
   },
 }
