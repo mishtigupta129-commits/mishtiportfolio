@@ -111,7 +111,7 @@ export function Projects() {
                   </span>
                 )}
 
-                <Image
+  <Image
   src={project.image}
   alt={project.title}
   fill
