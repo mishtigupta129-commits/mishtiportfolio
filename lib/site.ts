@@ -6,7 +6,6 @@ export const site = {
   gradYear: "2028",
   location: "Delhi, India",
   email: "mishtigupta129@gmail.com",
-  phone: "9354043823",
   tagline: "Building intelligent solutions, one project at a time.",
   links: {
     github: "https://github.com/mishtigupta129-commits",
