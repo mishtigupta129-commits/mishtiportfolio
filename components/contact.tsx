@@ -9,10 +9,8 @@ import { site } from "@/lib/site"
 
 const contactChannels = [
   { icon: Mail, label: "Email", value: site.email, href: `mailto:${site.email}` },
-  { icon: Phone, label: "Phone", value: site.phone, href: `tel:${site.phone.replace(/\s/g, "")}` },
   { icon: MapPin, label: "Location", value: site.location, href: undefined },
 ]
-
 export function Contact() {
   const [submitted, setSubmitted] = useState(false)
   const [form, setForm] = useState({ name: "", email: "", message: "" })
